@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Qawafel Apps on playstore (MarketplaceApp, DriverApp, VendorApp)](https://play.google.com/store/apps/details?id=sa.qawafel.marketplaceapp)
 
-- 🌱 I’m currently learning **Flutter, Swift**
-
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1biDbKDn5Ur312tDCFJQ0jbzM4MjvDuZ0/view?usp=sharing](https://drive.google.com/file/d/1biDbKDn5Ur312tDCFJQ0jbzM4MjvDuZ0/view?usp=sharing)
 
-- 💬 Ask me about **Android, Kotlin**
+- 💬 Ask me about **Android, Java, Kotlin**
 
 - 📫 How to reach me **khaled.khaledahmed@gmail.com**
 
