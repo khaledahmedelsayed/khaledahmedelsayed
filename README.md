@@ -2,4 +2,4 @@
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/khaled-ahmed-elsayed)
 
-- 📄 Know about my experiences from my [website here]([https://khaledahmedelsayed.com])
+- 📄 Know about my experiences from my [Portfolio Website](https://khaledahmedelsayed.com)
